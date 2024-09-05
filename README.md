@@ -2,11 +2,11 @@
 
 ### Overview of the Project
 
-The "Amazon Prime Dashboard" project was designed to provide a computer hardware business with actionable insights to help it scale in a dynamically changing market. Leveraging Power BI and SQL, the project aimed to track revenue growth, year-over-year (YOY) trends, and region-wise sales performance. The result was an automated dashboard that significantly contributed to a 7% increase in sales revenue in the next quarter.
+The "Sales Insights Dashboard" project was designed to provide a computer hardware business with actionable insights to help it scale in a dynamically changing market. Leveraging Power BI and SQL, the project aimed to track revenue growth, year-over-year (YOY) trends, and region-wise sales performance. The result was an automated dashboard that significantly contributed to a 7% increase in sales revenue in the next quarter.
 
 ### About the Project
 
-The project was initiated to address the challenges faced by a computer hardware business that lacked actionable insights to navigate a competitive market. By analyzing streaming data from Amazon Prime and other sources, the project aimed to create an automated dashboard that would facilitate data-informed decision-making. The primary objectives were to identify revenue growth patterns, analyze YOY trends, and evaluate region-wise sales performance.
+The project was initiated to address the challenges faced by a computer hardware business that lacked actionable insights to navigate a competitive market. The project aimed to create an automated dashboard that would facilitate data-informed decision-making by analyzing streaming data from Amazon Prime and other sources. The primary objectives were to identify revenue growth patterns, analyze YOY trends, and evaluate region-wise sales performance.
 
 ### Steps Taken to Create the Dashboard
 
@@ -48,8 +48,8 @@ The project was initiated to address the challenges faced by a computer hardware
 9. **Outro:**
    - Summarized the project findings and highlighted key takeaways.
    - Provided recommendations for business improvement based on the analysis.
-   - Concluded the project with a reflection on the analytical process and the value added to the client's business.
+   - Concluded the project by reflecting on the analytical process and the value added to the client's business.
 
 ### Project's Conclusion
 
-The Amazon Prime Dashboard project successfully addressed the challenges faced by the computer hardware business by providing actionable insights through an automated Power BI dashboard. The comprehensive analysis of revenue growth, YOY trends, and region-wise sales performance enabled the business to make data-informed decisions. The result was a notable 7% increase in sales revenue in the subsequent quarter. This project demonstrated the effectiveness of data analytics in driving business success and resolving complex market challenges.
+The Sales Insights Dashboard project successfully addressed the challenges faced by the computer hardware business by providing actionable insights through an automated Power BI dashboard. The comprehensive analysis of revenue growth, YOY trends, and region-wise sales performance enabled the business to make data-informed decisions. The result was a 7% increase in sales revenue in the subsequent quarter. This project demonstrated the effectiveness of data analytics in driving business success and resolving complex market challenges.
